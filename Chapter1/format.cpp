@@ -18,6 +18,7 @@ void showDate(int i, int i1, int i2) {
     std::cout << std::endl;
 }
 
+/**
 int main(int argc, char *argv[]) {
     // 원주율을 std::defaultfloat 타입으로 출력한다
     double f = 3.141592653539;
@@ -42,3 +43,4 @@ int main(int argc, char *argv[]) {
     std::cout << std::endl;
     return 0;
 }
+ */

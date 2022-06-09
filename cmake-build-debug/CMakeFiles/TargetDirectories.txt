@@ -1,0 +1,3 @@
+/mnt/c/Users/lsw94/Desktop/CLion/untitled1/cmake-build-debug/CMakeFiles/part03.dir
+/mnt/c/Users/lsw94/Desktop/CLion/untitled1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/lsw94/Desktop/CLion/untitled1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

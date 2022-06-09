@@ -14,6 +14,7 @@ void Print_bool(bool x) {
     std::cout << "bool 타입의 데이터는 " << std::boolalpha << x << "와" << !x << "로 표시할 수 있습니다" << std::endl;
 }
 
+/**
 int main(int argc, char *argv[]) {
     bool ok = true;
     bool notok = false;
@@ -33,7 +34,7 @@ int main(int argc, char *argv[]) {
     std::cin >> std::boolalpha >> isture;
     std::cout << isture << " = " << (isture == true) << std::endl;
 }
-
+*/
 
 
 

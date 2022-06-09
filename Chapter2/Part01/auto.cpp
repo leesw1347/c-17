@@ -13,7 +13,7 @@ auto add(T t, U u) -> decltype(t + u) {
     // auto, decltype 반복자나 stl에서 제공하는 컨테이너 클래스가 제공하는
     // 길고 복잡한 데이터 타입을 간단하게 명시할 때 주로 사용한다
 }
-
+/**
 int main(int argc, char *argv[]) {
     // name은 문자열을 저장, 초기화 하는 과정에서 const char * 타입으로 인식
     auto name = "Seoul";
@@ -21,3 +21,4 @@ int main(int argc, char *argv[]) {
     auto bar = foo;
     decltype(foo) bar2; // bar2 변수는 위의 foo 변수의 타입과 같은 정수 타입으로 인식한다
 }
+ */
